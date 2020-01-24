@@ -3,7 +3,7 @@
 ## 概要
 [課題1](https://github.com/NakaokaTsubasa/robosys2019_LED)のときに作成したLチカを用いて、キーボードで打った文字のモールス信号を発信するプログラムを作成しました。
 ## 動画
-- URL − https://youtu.be/zCBZ2dDzIzU
+- URL − https://youtu.be/plbPKslE-Jc
 ## 使用するもの
 - Raspberry Pi 3 Model B+
   - Ubuntu 18.04

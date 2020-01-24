@@ -9,3 +9,5 @@
   - Ubuntu 18.04
 - LED
 - 抵抗：300[Ω]
+## LICENSE
+This repository is licensed under the BSD 3-Clause License
